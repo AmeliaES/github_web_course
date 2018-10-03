@@ -7,12 +7,17 @@ Mark.
 
 ## Topics
 Headings   
-Bullet point lists (& nesting). 
-Ordered lists (& nesting)   
-Bold text.   
-Italics.   
-Combining attributes  e.g. Bold and italics.   
-Quoting blocks of text.   
+* Bullet point lists 
+   * (& nesting).    
+1. Ordered lists 
+   1.  (& nesting) .   
+   
+_Bold text._   
+__Italics__.   
+**Combining attributes  e.g. Bold and italics.**   
+> Quoting blocks of text.   
+   > nested quote.
+
 Tables.   
 Web-links             e.g. www.google.com.   
 Inserting graphics    e.g. coffee-break & biscuits.   
